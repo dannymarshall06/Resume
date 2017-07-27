@@ -19,14 +19,15 @@ body {
   margin: 0;
 }
 h1, h2 {
-  font-family: 'Caveat';
-  font-weight: 400;
+  font-family: "Comic Sans MS", cursive, sans-serif
+;
+  font-weight: 300;
 }
 h1 {
-  font-size: 80px;
+  font-size: 60px;
 }
 h2 {
-  font-size: 40px;
+  font-size: 30px;
   margin-top: 0;
 }
 h3 {
@@ -131,7 +132,7 @@ h3 ~ p {
 -------------------------*/
 .education {
   background: linear-gradient(rgba(141, 153, 174, 0.8), rgba(141, 153, 174, 0.5)),
-              url(../images/knox.jpg) no-repeat fixed;
+              url(../images/knox2.jpg) no-repeat fixed;
   background-size: cover;
 }
 p + h3 {
