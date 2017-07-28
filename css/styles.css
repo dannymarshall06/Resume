@@ -112,7 +112,7 @@ nav a {
 }
 
 
-/* Work Experience
+/* Work Experience Section
 -------------------------*/
 .work {
   background: #EDF2F4;
@@ -128,7 +128,7 @@ h3 ~ p {
 }
 
 
-/* Education
+/* Education Section
 -------------------------*/
 .education {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(141, 153, 174, 0.5)),
@@ -146,6 +146,7 @@ p + h3 {
 .education-h3 {
   font-weight: bold;
 }
+
 /*.education-text-background {
   background: rgba(43, 45, 66, 1);
   display: inline-block;
