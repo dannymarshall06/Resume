@@ -1,2 +1,2 @@
 # Resume
-A simple resume using css
+A simple resume using CSS
